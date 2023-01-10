@@ -1,5 +1,5 @@
 ## Html Page:
-![image](sc.png)
+![image](/Screenshot%20from%202023-01-10%2022-31-31.png)
 
 ## Html and CSS code:
 ```
@@ -67,7 +67,7 @@
                 <li>IntelliJ IDEA</li>
                 <li>Eclipse Theia</li>
             </ul>
-            <p>Designed by: Shakthi</p>
+            <p>Designed by: AdhithyaMR</p>
     </body>
 </html>
 
