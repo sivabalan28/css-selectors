@@ -67,7 +67,7 @@
                 <li>IntelliJ IDEA</li>
                 <li>Eclipse Theia</li>
             </ul>
-            <p>Designed by: Chandru</p>
+            <p>Designed by: Shakthi</p>
     </body>
 </html>
 
